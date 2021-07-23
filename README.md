@@ -3,14 +3,18 @@ Aprendendo a usar a plataforma / Gravando coisas úteis
 
 ## Links úteis de Sintaxes:
 
-[Sintaxe básica MarkDown](https://www.markdownguide.org/basic-syntax/) | [Tutoriais e sintaxes diversas](https://www.w3schools.com/) | [HTML](https://www.w3schools.com/tags/default.asp) | [CSS](https://www.w3schools.com/cssref/default.asp) | [JavaScript](https://www.w3schools.com/jsref/default.asp) |
+[Sintaxe básica MarkDown](https://www.markdownguide.org/basic-syntax/) | [Tutoriais e sintaxes diversas](https://www.w3schools.com/) <br/>
+
+[HTML](https://www.w3schools.com/tags/default.asp) | [CSS](https://www.w3schools.com/cssref/default.asp) | [JavaScript](https://www.w3schools.com/jsref/default.asp) |
 [Python](https://www.w3schools.com/python/python_reference.asp) |
 [SQL](https://www.w3schools.com/sql/sql_ref_keywords.asp) |
 [PHP](https://www.w3schools.com/php/default.asp) |
 [jQuery](https://www.w3schools.com/jquery/default.asp) |
 [Java](https://www.w3schools.com/java/default.asp) |
 [C++](https://www.w3schools.com/cpp/default.asp) |
-[Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp) |
+[Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp) <br/>
+
+[-Spring Inicializer](https://start.spring.io/)
 
 ## Atalhos úteis Git:
 
